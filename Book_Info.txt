@@ -1,0 +1,26 @@
+1/Sci-Fi/Dune/Frank Herbert/10/1.7.2010
+2/Fantasy/Heroes of Olympus/Rick Riordan/40/5.8.2014
+3/Mystery/The Dinner Guest/BPWalter/40/18.11.2011
+4/Fantasy/Heroes of Olympus/Rick Riordan/40/5.8.2014
+5/Sci-Fi/Old Man's War/John Scalzi/30/9.9.2013
+6/Sci-Fi/Ender's Game/Orson Scott Card/20/11.9.2013
+7/Fantasy/Heroes of Olympus/Rick Riordan/40/5.8.2014
+8/Mystery/The Dinner Guest/BPWalter/40/18.11.2011
+9/Sci-Fi/Ender's Game/Orson Scott Card/20/11.9.2013
+10/Mystery/The Family Upstairs/Lisa Jewell/40/10.6.2010
+11/Sci-Fi/Never Let Me Go/Kazuo Ishiguro/20/4.3.2012
+12/Fantasy/Find Them/J. K. Rowling/30/4.3.2012
+13/Mystery/Escape Room/Christopher Edge/20/4.3.2012
+14/Sci-Fi/Ender's Game/Orson Scott Card/20/11.9.2013
+15/Mystery/A Midnight Library/Matt Haig/10/4.3.2012
+16/Fantasy/The Wardrobe/CS Lewis/20/5.2.2001
+17/Sci-Fi/A Wrinkle in Time/Madeleine L'Engle/30/9.4/2010
+18/Fantasy/Find Them/J. K. Rowling/30/4.3.2012
+19/Mystery/I Know You Did It/Sue Wallman/20/12.3.2000
+20/Sci-Fi/Ender's Game/Orson Scott Card/20/11.9.2013
+21/Sci-Fi/Ringworld/Larry Niven/20/10.6.2010
+22/Mystery/The Silent Patient/Alex Michaelides/30/2.1.2010
+23/Fantasy/The Wardrobe/CS Lewis/20/5.2.2001
+24/Sci-Fi/Old Man's War/John Scalzi/30/9.9.2013
+25/Mystery/The Dinner Guest/BPWalter/40/18.11.2011
+26/Sci-Fi/Son's of Dune/Frank Herbert/10/10.04.2012
