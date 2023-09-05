@@ -5,7 +5,6 @@ from datetime import date
 This module contains functions used to return books that were on loan.'''
 
 def returnOption(book_toloan):
-    '''EXPLAIN FUNC'''
     book_info_lines = database.getBookInfo()
     if any(item.startswith(book_toloan+"/") for item in book_info_lines):  #check if bookid entered exists in book_info.txt
         log_lines=database.getLogInfo()
